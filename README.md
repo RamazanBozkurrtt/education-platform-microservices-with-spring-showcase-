@@ -15,7 +15,7 @@
   </p>
 
   <p>
-    <img src="https://img.shields.io/badge/Java-17-orange?style=for-the-badge&logo=java" alt="Java" />
+    <img src="https://img.shields.io/badge/Java-21-orange?style=for-the-badge&logo=java" alt="Java" />
     <img src="https://img.shields.io/badge/Spring_Boot-3.0-green?style=for-the-badge&logo=spring-boot" alt="Spring Boot" />
     <img src="https://img.shields.io/badge/Python-3.10-blue?style=for-the-badge&logo=python" alt="Python" />
     <img src="https://img.shields.io/badge/Kubernetes-Production-326CE5?style=for-the-badge&logo=kubernetes" alt="Kubernetes" />
